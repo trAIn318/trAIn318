@@ -1,9 +1,0 @@
-gspread==6.1.4
-pandas==2.2.3
-streamlit>=1.40.2
-streamlit_extras==0.5.0
-oauth2client>=4.1.3
-pillow==11.0.0
-openai==1.55.3
-request==2.32.3
-streamlit-option-menu==0.4.0
